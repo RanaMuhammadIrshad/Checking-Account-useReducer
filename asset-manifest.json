@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Checking-Account-useReducer/static/css/main.f55e7232.css",
+    "main.js": "/Checking-Account-useReducer/static/js/main.885e512b.js",
+    "static/js/787.d5ab34bf.chunk.js": "/Checking-Account-useReducer/static/js/787.d5ab34bf.chunk.js",
+    "index.html": "/Checking-Account-useReducer/index.html",
+    "main.f55e7232.css.map": "/Checking-Account-useReducer/static/css/main.f55e7232.css.map",
+    "main.885e512b.js.map": "/Checking-Account-useReducer/static/js/main.885e512b.js.map",
+    "787.d5ab34bf.chunk.js.map": "/Checking-Account-useReducer/static/js/787.d5ab34bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f55e7232.css",
+    "static/js/main.885e512b.js"
+  ]
+}
